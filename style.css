@@ -1,0 +1,96 @@
+body {
+	margin: 0;
+	margin-left:0;
+	background-image: url('COD.jpg');
+	background-repeat:no-repeat;
+        background-size:100% 85%;
+        background-margin-top:50px;
+        background-blend-mode:color-dodge;
+}
+
+
+header{
+	background: #333;
+	color: white;
+	margin: 0;
+}
+.wew{
+	text-align:center;
+	color:orange;
+	border: transparent solid 10px orange;
+	background-color:yellow;
+}
+header h1 {
+	margin: 0;
+	float: left;
+	padding: 10px 0 10px 15px;
+}
+
+header a {
+	color: white;
+    text-decoration: none;
+	margin:0 auto;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover:not(.active) {
+    background-color: #111;
+}
+
+nav .active {
+    background-color: #4CAF50;
+}
+.img {
+	width:250px;
+	height:150px;
+	position:relative;
+	left:100px;
+	}
+.hog {
+	display: block;
+    	margin: auto;
+		}
+.rear {text-align:center;
+	}
+ol {
+	color:#1290CE;
+	font-size:20px;
+	
+	border:solid transparent darkblue 20px;
+	background-color:#91DAF0;
+	margin-right:800px;
+	padding-top:25px;
+	padding-bottom:200px;
+	list-style-type:none;
+	}
+.own{border: 1px solid #407C8E ;
+	margin-right:auto;}
+.own{text-decoration:none;}
+.own:hover{background-color:rgba(255, 255, 255, 0.5);}
+.own:visited{color:#1290CE;}
+
+#wtf{
+	position:relative;
+	bottom:610px;
+	background-color:#0C7575;
+	margin:250px;
+	padding:100px;
+}
